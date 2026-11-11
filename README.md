@@ -18,7 +18,7 @@ It also provides a **Routine Imbalance Indicator** based on simple rule-based co
 
 ## 🎯 Objectives
 
-- Analyze student daily habits and academic performance
+- Analyze student daily habits and academic performance in education
 - Clean and prepare the dataset
 - Perform Exploratory Data Analysis (EDA)
 - Visualize relationships between different factors

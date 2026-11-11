@@ -8,9 +8,9 @@ Students have different study patterns, sleep schedules, phone usage, exercise h
 
 This project analyzes these factors and predicts a student's **Productivity Level** as:
 
-- 🟢 High
-- 🟡 Medium
-- 🔴 Low
+- 🟢 High level 
+- 🟡 Medium level 
+- 🔴 Low level 
 
 It also provides a **Routine Imbalance Indicator** based on simple rule-based conditions related to study hours, sleep, phone usage, and exercise.
 

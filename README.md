@@ -14,7 +14,7 @@ This project analyzes these factors and predicts a student's **Productivity Leve
 
 It also provides a **Routine Imbalance Indicator** based on simple rule-based conditions related to study hours, sleep, phone usage, and exercise.
 
-> **Note:** The Routine Imbalance Indicator is a project feature and is not a medical diagnosis.
+> **Note:** The Routine Imbalance Indicator is a project feature and is not a medical diagnosis.so the prediction will be approximate only . 
 
 ## 🎯 Objectives
 

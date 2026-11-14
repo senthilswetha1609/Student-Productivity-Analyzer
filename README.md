@@ -16,7 +16,7 @@ It also provides a **Routine Imbalance Indicator** based on simple rule-based co
 
 > **Note:** The Routine Imbalance Indicator is a project feature and is not a medical diagnosis.so the prediction will be approximate only . 
 
-## 🎯 Objectives
+## 🎯 Objectives of project 
 
 - Analyze student daily habits and academic performance in education
 - Clean and prepare the dataset
